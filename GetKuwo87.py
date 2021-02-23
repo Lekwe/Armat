@@ -175,7 +175,7 @@ while True:
                     print(
                         Fore.BLUE + Back.BLACK + "爬取失败，请检查你的链接或id、网络设置，或代理设置，若都设置正常，请稍后再试，或向我们反馈下方" + Fore.YELLOW + "黄色" + Fore.BLUE + "英文错误信息:\n总工:张书畅\n邮箱:zscleo@qq.com\n    "
                                                  " abc.lkw@aliyun.com\nQQ:1144757260\n电话:18953021320\n副总工:赵子汉\n邮箱:a_1666666@126.com\n   "
-                                                 "  a_1666666@yeah.net\nQQ:3199398113\n电话:13256210166")
+                                                 "  a_1666666@yeah.net\nQQ:3199398113\n电话:13256210166\n帮助文档: https://support.lekwe.rf.gd/getkuwo/faq/doc/#")
                     print(Fore.YELLOW + str(ex))
     else:
         print(Fore.YELLOW + "你的网络未连接，请检查你的网络连接,设置好后按下回车键继续")
